@@ -1,0 +1,7 @@
+logging:
+  level:
+    com.juvenile.docScale: DEBUG
+
+spring:
+  application:
+    name: docScale
